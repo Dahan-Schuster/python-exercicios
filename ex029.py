@@ -1,0 +1,1 @@
+print('Número par.') if int(input('Digite um número inteiro: ')) % 2 == 0 else print('Número impar.')
